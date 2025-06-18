@@ -12,7 +12,7 @@ This project demonstrates how to host a static website using **AWS S3** for stor
 - **HTML/CSS** – static site files
 
 ---
-![Website](./screenshots/website.png)
+![Website](screenshots/s1.png)
 ---
 
 ## ⚙️ Setup Instructions
