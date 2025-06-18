@@ -12,7 +12,7 @@ This project demonstrates how to host a static website using **AWS S3** for stor
 - **HTML/CSS** – static site files
 
 ---
-
+![Website](./screenshots/website.png)
 ---
 
 ## ⚙️ Setup Instructions
@@ -46,7 +46,7 @@ Below is the high-level workflow of the deployment process:
 > 🖼️ **Add your workflow screenshot here**  
 > _Replace the example below with your own screenshot._
 
-![Workflow Diagram](./assets/workflow-diagram.png)
+
 
 ```text
 +-------------------+
