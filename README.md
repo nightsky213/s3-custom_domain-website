@@ -7,7 +7,7 @@ This project demonstrates how to host a static website using **AWS S3** for stor
 
 ## 📖 Project Blog
 
-Read the full story behind this project on Medium: [Building an Open Source Incident Management System with Flask, SQLite, Docker & Email Alerts](https://medium.com/@vibhavakrishna999/host-a-static-website-with-s3-cloudfront-github-actions-free-scalable-secure-32ad401df975)
+Read the full story behind this project on Medium: [Static Website Hosting](https://medium.com/@vibhavakrishna999/host-a-static-website-with-s3-cloudfront-github-actions-free-scalable-secure-32ad401df975)
 
 
 ---
